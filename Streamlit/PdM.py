@@ -7,10 +7,14 @@ import numpy as np
 from tensorflow.keras.models import load_model
 import plotly.express as px
 # TODAY = date.today().strftime("%Y-%m-%d")
-st.set_page_config(page_title="Ocp MS project", page_icon = "ocpms.jpg")
-# st.logo(
-#     "ocpms.jpg"
-# )
+
+path_logo = "images\ocpms.jpg"
+path_model ="saved_models\model_last.keras"
+
+st.set_page_config(page_title="Ocp MS project", page_icon = path_logo)
+st.logo(
+    path_logo
+)
 
 hide_st_style = """
             <style>
@@ -31,7 +35,6 @@ selected = option_menu (
 )
 
 
-path_model = "ui\model_last.keras"
 WINDOW_SIZE = 200
 delay = 2
 mydata = pd.DataFrame()
