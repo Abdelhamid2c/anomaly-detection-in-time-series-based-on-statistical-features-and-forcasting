@@ -1,0 +1,10 @@
+digest: b453fdac
+name: dataset
+profile: '{"features_shape": [1907, 382, 1], "features_size": 728474, "features_nbytes":
+  5827792, "targets_shape": [1907], "targets_size": 1907, "targets_nbytes": 15256}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 382, 1]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "user", "mlflow.source.name": "C:\\Users\\user\\anaconda3\\envs\\myenv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

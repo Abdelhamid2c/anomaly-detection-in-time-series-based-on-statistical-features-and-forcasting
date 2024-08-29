@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/Pdm/LSTM_24H_artifacts/3a4adf256ca043098df9fdb560225196/artifacts
+end_time: 1724315276658
+entry_point_name: ''
+experiment_id: '328429175753165181'
+lifecycle_stage: active
+run_id: 3a4adf256ca043098df9fdb560225196
+run_name: logging_models_24H_v1.0.0
+run_uuid: 3a4adf256ca043098df9fdb560225196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724315099697
+status: 3
+tags: []
+user_id: user

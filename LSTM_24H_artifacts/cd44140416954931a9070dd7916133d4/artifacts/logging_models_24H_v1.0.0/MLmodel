@@ -1,0 +1,18 @@
+artifact_path: logging_models_24H_v1.0.0
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.4.1
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.7
+mlflow_version: 2.15.1
+model_size_bytes: 85175
+model_uuid: 2ea9bbf4bc44457cb630438fb58fc910
+run_id: cd44140416954931a9070dd7916133d4
+utc_time_created: '2024-08-22 08:35:04.356785'
