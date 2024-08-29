@@ -16,7 +16,7 @@ This project focuses on implementing an unsupervised method for anomaly detectio
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Abdelhamid2c/anomaly-detection-in-time-series-based-on-statistical-features-and-forcasting.git
    cd <your-repository-folder>
 2. **Install Dependencies:**
    ```bash
