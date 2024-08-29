@@ -27,7 +27,16 @@ This project focuses on implementing an unsupervised method for anomaly detectio
 
 ## Screenshots
 1. **Home Page**
-
-2. **Project Page**
-
-3. **Contact Page**
+![Screenshot 1](https://github.com/Abdelhamid2c/anomaly-detection-in-time-series-based-on-statistical-features-and-forcasting/blob/master/images/screens/home%20section.png)
+![Screenshot 1](https://github.com/Abdelhamid2c/anomaly-detection-in-time-series-based-on-statistical-features-and-forcasting/blob/master/images/screens/submitted%20successfully.png)
+3. **Project Page**
+   - befor data submission
+![Screenshot 1](https://github.com/Abdelhamid2c/anomaly-detection-in-time-series-based-on-statistical-features-and-forcasting/blob/master/images/screens/project_section.png)
+   - After data submission
+![Screenshot 1](https://github.com/Abdelhamid2c/anomaly-detection-in-time-series-based-on-statistical-features-and-forcasting/blob/master/images/screens/proejct%20section%20after%20submitted%20data.png)
+   - Graph the data column 
+![Screenshot 1](https://github.com/Abdelhamid2c/anomaly-detection-in-time-series-based-on-statistical-features-and-forcasting/blob/master/images/screens/plot%20the%20specific%20column%20enter%20in%20home%20section%20.png)
+   - 24-hour forecasting
+![Screenshot 1](https://github.com/Abdelhamid2c/anomaly-detection-in-time-series-based-on-statistical-features-and-forcasting/blob/master/images/screens/forcasting%201day.png)
+5. **Contact Page**
+![Screenshot 1]()
