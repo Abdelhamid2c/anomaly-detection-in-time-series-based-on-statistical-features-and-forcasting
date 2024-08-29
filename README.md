@@ -39,4 +39,4 @@ This project focuses on implementing an unsupervised method for anomaly detectio
    - 24-hour forecasting
 ![Screenshot 1](https://github.com/Abdelhamid2c/anomaly-detection-in-time-series-based-on-statistical-features-and-forcasting/blob/master/images/screens/forcasting%201day.png)
 5. **Contact Page**
-![Screenshot 1]()
+![Screenshot 1](https://github.com/Abdelhamid2c/anomaly-detection-in-time-series-based-on-statistical-features-and-forcasting/blob/master/images/screens/contact%20section.png)
