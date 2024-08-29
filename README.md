@@ -25,3 +25,9 @@ This project focuses on implementing an unsupervised method for anomaly detectio
    ```bash
    streamlit run Streamlit/PdM.py
 
+## Screenshots
+1. **Home Page**
+
+2. **Project Page**
+
+3. **Contact Page**
